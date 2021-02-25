@@ -1,6 +1,4 @@
-# New Project
-
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+# React + Tailwind template made with Snowpack
 
 ## Available Scripts
 
