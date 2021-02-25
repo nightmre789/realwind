@@ -1,5 +1,9 @@
 # React + Tailwind template made with Snowpack
 
+## Quickstart
+
+### npx create-react-app folder_name --template realwind
+
 ## Available Scripts
 
 ### npm start
@@ -16,6 +20,10 @@ Builds a static copy of your site to the `build/` folder.
 Your app is ready to be deployed!
 
 **For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.json` config file.
+
+### npm run tailwind
+
+Builds tailwind output file based on config in tailwind.js and src/tailwind.css
 
 ### Q: What about Eject?
 
