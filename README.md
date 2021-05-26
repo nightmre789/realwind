@@ -2,7 +2,7 @@
 
 ## Quickstart
 
-### npx create-react-app folder_name --template realwind
+### npx create-snowpack-app folder_name --template realwind
 
 ## Available Scripts
 
